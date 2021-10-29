@@ -1,4 +1,4 @@
-# Image Captioning using Deep Neural Network Model
+# Image Captioning Using Deep Neural Network Based Model
 
 ## Summary
 The project combines two deep learning models for Automatic Image Captioning using CNN (Convolutional Neural Network) and RNN (Recurrent Neural Network) or LSTM (Long Short Term Memory model). The program is built using reliable python libraries such as TensorFlow, Keras, nltk, NumPy, and some common standard benchmark datasets such as COCO, Flikr8k, etc. Flikr30k to train and test the program. The trained model is further tested on local data for appropriate evaluation of performance.
@@ -20,6 +20,11 @@ Read the embedded image and generate a textual description (e.g., final caption)
 ### Numpy: main object is the homogeneous multidimensional array. It is a table of elements (usually numbers), all of the same type, indexed by a tuple of non-negative integers. In NumPy, dimensions are called axes.
 ### h5py uses straightforward NumPy and Python metaphors, like dictionary and NumPy array syntax. So, for example, you can iterate over datasets in a file or check out the .shape or .dtype attributes of datasets.
 
+## Images/Text Datasets
+Three Benchmark Datasets, including MS COCO, Flikr8k, and Flikr30k, were used for training and testing the model. In addition, however, some local images have been used to confirm and validate the accuracy of the program.
+
+## GUIs
+
 
 ## Citation
-Md. Mijanur Rahman and Tanjarul Islam Mishu, "Image Captioning using Deep Neural Network Model", Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University. Github Repository, 2021. https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model
+Md. Mijanur Rahman, Ashik Uzzaman, Sadia Islam Sami, "Image captioning using deep neural network based model", Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University. Github Repository, 2021. https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model
