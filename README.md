@@ -23,8 +23,6 @@ Read the embedded image and generate a textual description (e.g., final caption)
 ## Images/Text Datasets
 Three Benchmark Datasets, including MS COCO, Flikr8k, and Flikr30k, were used for training and testing the model. In addition, however, some local images have been used to confirm and validate the accuracy of the program.
 
-## GUIs
-
 ## Read More
 Read more for details: [Image_Caption_Generator_User_Manual](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Caption_Generator_User_Manual.pdf); [Image_Captioning_Process](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Captioning_Process.pdf)
 
