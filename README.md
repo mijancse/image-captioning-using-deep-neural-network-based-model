@@ -1,7 +1,7 @@
 # Image Captioning Using Deep Neural Network Based Model
 
 ## Summary
-The project combines two deep learning models for Automatic Image Captioning using CNN (Convolutional Neural Network) and RNN (Recurrent Neural Network) or LSTM (Long Short Term Memory model). The program is built using reliable python libraries such as TensorFlow, Keras, nltk, NumPy, and some common standard benchmark datasets such as COCO, Flikr8k, etc. Flikr30k to train and test the program. The trained model is further tested on local data for appropriate evaluation of performance.
+The project combined two deep learning models for automatic image captioning using CNN (Convolutional Neural Network) and RNN (Recurrent Neural Network) or LSTM (Long Short Term Memory model). The proposed system was built using reliable python libraries such as TensorFlow, Keras, nltk, NumPy, etc. Three standard benchmark datasets, such as COCO, Flikr8k, Flikr30k, were used to train and test the program. The trained model was further tested on local data for evaluating the system's performance.
 
 ## The Proposed Model
 The proposed system used two deep learning models, CNN that excels at remembering spatial details and identifying features in images, and an RNN model (generally, the LSTM model) that can process any sequential data such as word sequence generation. The encoder converts raw inputs into feature representations, which are then passed on to the decoder to generate final captions as output. The deep learning models combines two different models; CNN for processing images and LSTM or RNN model for text prediction. 
