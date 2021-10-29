@@ -26,7 +26,7 @@ Three Benchmark Datasets, including MS COCO, Flikr8k, and Flikr30k, were used fo
 ## GUIs
 
 ## Read More
-Read more for details: [Image_Caption_Generator_User_Manual](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Caption_Generator_User_Manual.pdf); [Image_Captioning_Process] (https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Captioning_Process.pdf)
+Read more for details: [Image_Caption_Generator_User_Manual](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Caption_Generator_User_Manual.pdf); [Image_Captioning_Process](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Captioning_Process.pdf)
 
 ## Citation
 Md. Mijanur Rahman, Ashik Uzzaman, Sadia Islam Sami, "Image captioning using deep neural network based model", Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University. Github Repository, 2021. https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model
