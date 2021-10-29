@@ -24,7 +24,7 @@ Read the embedded image and generate a textual description (e.g., final caption)
 Three Benchmark Datasets, including MS COCO, Flikr8k, and Flikr30k, were used for training and testing the model. In addition, however, some local images have been used to confirm and validate the accuracy of the program.
 
 ## Read More
-Read more for details: [Image_Caption_Generator_User_Manual](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Caption_Generator_User_Manual.pdf); [Image_Captioning_Process](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Captioning_Process.pdf)
+Read more for details: [Image_Caption_Generator_User_Manual](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Caption_Generator_User_Manual.pdf); [Image_Captioning_Process](https://github.com/mijancse/image-captioning-using-deep-neural-network-based-model/blob/main/Image_Captioning_Process.pdf). [Scripts & Datasets Download](https://drive.google.com/drive/folders/1h43vZTgNk-ulihv2jSf0QLrRI0ty3mOn?usp=sharing)
 
 ## Contact
 Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh, Bangladesh. Email: mijan@jkkniu.edu.bd
